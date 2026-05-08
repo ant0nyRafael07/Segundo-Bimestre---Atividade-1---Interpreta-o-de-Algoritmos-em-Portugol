@@ -1,0 +1,18 @@
+Segundo Bimestre - Atividade 1 - Interpretação de Algoritmos em Portugol 
+atividade 1: 
+ 
+Quando a mensagem "Olá Mundo" é digitada e execultada aparece a frase "Olá mundo" no console 
+
+Atividade 2: 
+
+  O programa exibiu as mensagens "Olá MundoComo vai" coladas uma na outra na mesma linha. Isso ocorre porque o comando escreva não foi adicionado espaço entre o final da primeira frase ou no começo da sugunda. 
+
+Atividade 3: 
+
+No código, o \n instrui o programa a pular uma linha após exibir "Olá Mundo. Assim, "Como vai" será exibido logo abaixo, na linha seguinte. 
+
+Atividade 4: 
+
+Uma das funções da "cadeia" é para o usuario conseguir escrever as letras, como logo em seguida tem o codigo "leia", o programa não vai entender as letras se eu usar "inteiro" por exemplo. O "leia" server para o usuario escrever seu nome, ja o "escreva" serve para o nome digitaado 
+
+Atividade 5: 
