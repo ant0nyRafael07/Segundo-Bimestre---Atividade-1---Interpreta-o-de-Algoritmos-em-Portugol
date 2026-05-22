@@ -16,3 +16,53 @@ Atividade 4:
 Uma das funções da "cadeia" é para o usuario conseguir escrever as letras, como logo em seguida tem o codigo "leia", o programa não vai entender as letras se eu usar "inteiro" por exemplo. O "leia" server para o usuario escrever seu nome, ja o "escreva" serve para o nome digitaado 
 
 Atividade 5: 
+Letra A 
+Quando o código foi executado, o programa mostrou mensagens na tela usando o comando escreva. 
+Letra B: 
+Linha 6: Realiza a soma matemática de 100 + 200, exibe o resultado 300 e pula para a linha de baixo. linha 7: exibe o texto exato "100+200", sem realizar nenhum cálculo. 
+
+atividade 6:O programa criou uma variável inteira chamada idade com valor 21.
+Depois, o comando se(idade >= 18) verificou se a idade era maior ou igual a 18.
+
+Como 21 é maior que 18, a condição foi verdadeira. Então, o programa executou o comando escreva("maior de idade"), mostrando essa mensagem na tela. 
+
+atividade 7: 
+programa {
+  funcao inicio() {
+    real nota1, nota2, nota3, nota4, media 
+    
+    escreva("primeira nota ")
+    leia(nota1)
+
+    escreva("segunda nota ")
+    leia(nota2)
+
+    escreva("terceira nota ")
+    leia(nota3)
+
+    escreva("quarta nota ")
+    leia(nota4)
+
+    media = (nota1 + nota2 + nota3 + nota4) /4 
+
+    escreva("media eh ", media)
+  }
+} 
+
+atividade 8: 
+
+programa {
+  funcao inicio() {
+    cadeia mae, filha, troca 
+
+    mae = "Tess" 
+    filha = "Ana"
+    filha = "troca" 
+    escreva("Mae: ", mae, "\n") 
+    escreva("filha: ", filha)
+  }
+}
+
+atividade 9:
+
+
