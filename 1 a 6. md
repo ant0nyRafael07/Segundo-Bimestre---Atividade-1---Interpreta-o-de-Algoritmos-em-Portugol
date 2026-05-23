@@ -63,6 +63,71 @@ programa {
   }
 }
 
-atividade 9:
+atividade 9: 
+
+programa {
+  funcao inicio() {
+    real metros, centimetro 
+
+    escreva("Digite o valor em metros: ")
+    leia(metros)
+
+centimetro = metros * 100
+
+escreva("Valor em centimetros: ", centimetro)
+  }
+}
+
+atividade 10 
+programa {
+  funcao inicio() {
+    
+    real comprimento, largura 
+    real  area, dobro, centimetro 
+
+    escreva("Digite o comprimento: ")
+     leia (comprimento )
+
+     escreva("Digite o largura: ")
+     leia (largura)
+
+     area = comprimento * largura 
+     dobro = area * 2 
+     centimetro = dobro * 1000 
+
+     escreva("Area do gramado: ", area, "\n")
+     escreva("dobro da area: ", dobro, "\n")
+     escreva("dobro da area em cemtimetros: ", centimetro)
+  }
+} 
+atividade 11 
+programa {
+  funcao inicio() {
+    
+    real peso_de_peixe 
+    real multa, excesso 
+
+    escreva("Digite o peso dos peixes: ") 
+    leia(peso_de_peixe)
+
+    excesso = peso_de_peixe - 50 
+    
+    se (peso_de_peixe > 50)
+    { 
+      multa = excesso * 4.5 
+    } 
+    senao 
+    { 
+      excesso = 0 
+      multa = 0
+    } 
+
+    escreva("Peso dos peixes: ", peso_de_peixe, "kg\n") 
+    escreva("Exesso: ", excesso, "kg\n") 
+    escreva("Multa: R$  ", multa)
+  }
+}
+
+
 
 
